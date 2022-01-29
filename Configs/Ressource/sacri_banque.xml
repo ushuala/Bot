@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configform xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Script>C:\Users\Administrator\Documents\Bot\Manuel\Ressource.lua</Script>
+  <Placement>1</Placement>
+  <SpeedFight>50</SpeedFight>
+  <Regen>50</Regen>
+  <RegenTeam>false</RegenTeam>
+  <Flood />
+  <FloodActivate>false</FloodActivate>
+  <Commerce>false</Commerce>
+  <Recrutement>false</Recrutement>
+  <ConnexionAuto>true</ConnexionAuto>
+  <takeMerchant>false</takeMerchant>
+  <notifyArchi>false</notifyArchi>
+  <shortestPath>false</shortestPath>
+  <customPlanning>false</customPlanning>
+  <Sucess>true</Sucess>
+  <StatuPrivate>false</StatuPrivate>
+  <AntiAgro>false</AntiAgro>
+  <BankReturn>100</BankReturn>
+  <ExchangeHost />
+  <ExchangeActivate>true</ExchangeActivate>
+  <TimeWait>200</TimeWait>
+  <RegenAutoIDActivate>false</RegenAutoIDActivate>
+  <ToggleActivate>true</ToggleActivate>
+  <LogsActivate>false</LogsActivate>
+  <FloodSameCharacter>false</FloodSameCharacter>
+  <FloodMapEnter>false</FloodMapEnter>
+  <SpellConfig />
+  <statsConfig>
+    <ArrayOfInt>
+      <int>14</int>
+      <int>100</int>
+    </ArrayOfInt>
+    <ArrayOfInt>
+      <int>11</int>
+      <int>0</int>
+    </ArrayOfInt>
+  </statsConfig>
+  <planning>
+    <ArrayOfInt />
+    <ArrayOfInt />
+    <ArrayOfInt />
+    <ArrayOfInt />
+    <ArrayOfInt />
+    <ArrayOfInt />
+    <ArrayOfInt />
+  </planning>
+  <Tactic>HandToHand</Tactic>
+  <FarCells>8</FarCells>
+  <ReadyDelay>100</ReadyDelay>
+</Configform>

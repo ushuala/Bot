@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configform xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Script>C:\Users\Administrator\Documents\Bot\Main\Paysan.lua</Script>
+  <Placement>1</Placement>
+  <SpeedFight>1111</SpeedFight>
+  <Regen>80</Regen>
+  <RegenTeam>false</RegenTeam>
+  <Flood />
+  <FloodActivate>false</FloodActivate>
+  <Commerce>false</Commerce>
+  <Recrutement>false</Recrutement>
+  <ConnexionAuto>false</ConnexionAuto>
+  <takeMerchant>false</takeMerchant>
+  <notifyArchi>false</notifyArchi>
+  <Sucess>true</Sucess>
+  <StatuPrivate>false</StatuPrivate>
+  <AntiAgro>false</AntiAgro>
+  <BankReturn>90</BankReturn>
+  <ExchangeHost />
+  <ExchangeActivate>false</ExchangeActivate>
+  <TimeWait>2000</TimeWait>
+  <RegenAutoIDActivate>false</RegenAutoIDActivate>
+  <ToggleActivate>false</ToggleActivate>
+  <LogsActivate>false</LogsActivate>
+  <FloodSameCharacter>false</FloodSameCharacter>
+  <FloodMapEnter>false</FloodMapEnter>
+  <SpellConfig>
+    <Spell>
+      <Id>0</Id>
+      <SpellId>13516</SpellId>
+      <Name>Ronce</Name>
+      <Target>Enemy</Target>
+      <Turns>1</Turns>
+      <Relaunch>1</Relaunch>
+      <LastTurn>3</LastTurn>
+      <IsHandToHand>false</IsHandToHand>
+      <TouchMonster>false</TouchMonster>
+      <TargetLife>100</TargetLife>
+    </Spell>
+    <Spell>
+      <Id>1</Id>
+      <SpellId>13516</SpellId>
+      <Name>Ronce</Name>
+      <Target>Enemy</Target>
+      <Turns>1</Turns>
+      <Relaunch>1</Relaunch>
+      <LastTurn>3</LastTurn>
+      <IsHandToHand>false</IsHandToHand>
+      <TouchMonster>false</TouchMonster>
+      <TargetLife>100</TargetLife>
+    </Spell>
+  </SpellConfig>
+  <statsConfig />
+  <Tactic>HandToHand</Tactic>
+  <FarCells>6</FarCells>
+  <ReadyDelay>1500</ReadyDelay>
+</Configform>
